@@ -1,4 +1,5 @@
 # Alloy
+![image](https://github.com/alloy-rs/.github/assets/17802178/59b7c9cb-5317-469c-abea-f51e6da6fcbe)
 
 Alloy implements high-performance, well-tested & documented libraries for interacting with Ethereum and other EVM-based chains.
 
