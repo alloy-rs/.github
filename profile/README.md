@@ -15,4 +15,4 @@ We provide:
 
 We also have:
 * [`book`](https://github.com/alloy-rs/book): A book on all things Alloy.
-* [`examples`](https://github.com/alloy-rs/examples): Example code for using `alloy` and `alloy-core`.
+* [`examples`](https://github.com/alloy-rs/examples): Example code for using [`alloy`](https://github.com/alloy-rs/alloy) and [`alloy-core`](https://github.com/alloy-rs/core).
