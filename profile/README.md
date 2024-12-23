@@ -7,6 +7,7 @@ Alloy implements high-performance, well-tested & documented libraries for intera
 We provide:
 * [`alloy`](https://github.com/alloy-rs/alloy): Transports, Middleware, and Networks for the Alloy project.
 * [`core`](https://github.com/alloy-rs/core): Core types for Rust Ethereum, RPC types for JSON-RPC, RLP encoding/decoding, a compile-time/run-time ABI encoder/decoder, and a representation of Solidity's type system in Rust for usage in procedural macros and more.
+* [`eips`](https://github.com/alloy-rs/eips): Standalone Ethereum Improvement Proprosal (EIP) implementations.
 * [`trie`](https://github.com/alloy-rs/trie): Fast Merkle-Patricia Trie (MPT) state root calculator and proof generator for prefix-sorted nibbles.
 * [`nybbles`](https://github.com/alloy-rs/nybbles): Efficient nibble-sized (4-bit) byte sequence data structure.
 * [`chains`](https://github.com/alloy-rs/chains): Canonical type definitions for EVM-based chains.
